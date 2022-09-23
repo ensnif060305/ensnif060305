@@ -25,6 +25,12 @@ Here are some ideas to get you started:3178C6
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensnif060305&layout=compact&theme=omni)
 
+```javascript
+while(true){
+  console.log("hi")
+}
+```
+
 <p>SNS</p>
 
 <a href="https://instagram.com/___jm.s.h___/"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat"/></a>    <a href="https://www.facebook.com/profile.php?id=100018083712784"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=flat"/></a>  <a href="#"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=flat"/></a>
