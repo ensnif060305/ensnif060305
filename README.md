@@ -14,7 +14,14 @@ Here are some ideas to get you started:3178C6
 -->
 
 
-<h1>Ensnif060305</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ensnif060305&fontSize=70)
+
+  <p align="center">
+ <a href="https://github.com/chlgkdms/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=chlgkdms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a></p>
+ 
+  
+<div align="center">
 
 <p>SNS</p>
 
