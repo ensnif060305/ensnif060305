@@ -16,13 +16,13 @@ Here are some ideas to get you started:3178C6
 
 <h1>Ensnif060305</h1>
 
-##### SNS
+<p>SNS</p>
 
 <a href="https://instagram.com/___jm.s.h___/"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat"/></a>    <a href="https://www.facebook.com/profile.php?id=100018083712784"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=flat"/></a>  <a href="#"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=flat"/></a>
 
 <hr size="1px">
 
-##### programing languages
+<p>programing languages</p>
 
 
 <a href="#"><img align="center" src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-React_Native-61DAFB?logo=React&logoColor=white&style=flat"/></a>
@@ -40,12 +40,12 @@ Here are some ideas to get you started:3178C6
 <a href="#"><img align="center" src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat"/></a>
 
 
-<a href="#"><img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/></a>
+<a href="#"><img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/></a>  <a href="#"><img align="center" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black"/></a>
 
 
 <hr size="1px"/>
 
-#### develop tools
+<p>develop tools</p>
 
 
 <a href="#"><img align="center" src="https://img.shields.io/badge/-Vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=flat"/></a>  <a href="#"><img align="center" src="https://img.shields.io/badge/-Webstorm-000000?logo=Webstorm&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-Goland-00000?logo=Goland&logoColor=white&style=flat"/></a>  <a href="#"><img align="center" src="https://img.shields.io/badge/-Visual Studio 2022-5C2D91?logo=Visual studio&logoColor=white&style=flat"/></a>  <a href="#"><img align="center" src="https://img.shields.io/badge/-Intellij-000000?logo=Intellij IDEA&logoColor=white&style=flat"/></a>  <a href="#"><img align="center" src="https://img.shields.io/badge/-Webstorm-000000?logo=Webstorm&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-Pycharm-00000?logo=Pycharm&logoColor=white&style=flat"/></a>
